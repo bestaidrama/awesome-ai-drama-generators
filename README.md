@@ -65,6 +65,7 @@ Story-first generators that produce narrated or captioned videos rather than act
 - [Crreo AI](https://www.crreo.ai/) — Script-to-video maker for 1 to 30-minute narrated videos with recurring characters, voice control and music, marketed for micro-dramas among other formats.
 - [Elser AI](https://www.elser.ai/anime) — AI anime and movie generator that turns a story idea or script into styled animated shorts, drama episodes and trailers with voiceover.
 - [Faceless.so](https://faceless.so/) — Faceless video automation that writes, voices, edits and auto-posts niche story and fact videos as scheduled series.
+- [FacelessShorts](https://facelessshorts.io/) — Scripted faceless video series with narration, captions, and scheduled auto-publishing to Shorts, TikTok, and Reels.
 - [MagicLight](https://magiclight.ai/) — Story-to-video platform that turns a story or script into a long-form animated or realistic video with recurring characters, voiceover and lip sync.
 - [Mootion](https://www.mootion.com/) — AI storytelling video generator that turns prompts, scripts, audio or links into multi-scene narrative videos with consistent characters, voiceover and 3D camera control.
 - [OiiOii](https://www.oiioii.ai/) — Multi-agent AI animation platform where seven role agents write, design, animate, edit and score animated shorts and episodic shorts from a prompt.
