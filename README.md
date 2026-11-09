@@ -28,6 +28,7 @@ Input: a script, a novel or a story idea. Output: episodes with a recurring cast
 
 - [AI Drama Generator (aidramagenerator.ai)](https://www.aidramagenerator.ai/) — Web tool that structures story ideas, scripts or novel chapters into serialized short-drama episodes with voiceover, lip sync and subtitles.
 - [AI Dramas (aidramas.com)](https://aidramas.com/) — Script-style editor that renders cast-referenced 4-15 second vertical clips and chains them into short-drama episodes with lip-synced dialogue.
+- [AlphaDrama](https://www.getalphadrama.com/) — Web-based AI short drama and marketing video studio that coordinates multi-agent workflows for novel/script adaptation, persistent character sheets, automated storyboarding, and vertical video stitching.
 - [Anijam](https://www.anijam.ai/tools/ai-series-generator/) — AI series generator with a chat agent that outlines seasons, locks characters and renders lip-synced multi-scene episodes; also on iOS.
 - [AnimateAI](https://animateai.pro/) — AI animation video generator for animated series that creates reusable characters, editable storyboards with narration, and full videos from a story idea.
 - [AniShort (global)](https://global.anishort.ai/) — Node-based infinite-canvas collaboration platform for AI film and TV drama production with storyboard, 3D director, review and team features.
